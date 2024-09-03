@@ -1,0 +1,7 @@
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Linq\Collections-hw\Collections-hw\obj\Debug\Collections-hw.csproj.AssemblyReference.cache
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Linq\Collections-hw\Collections-hw\obj\Debug\Collections-hw.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Linq\Collections-hw\Collections-hw\bin\Debug\Collections-hw.exe.config
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Linq\Collections-hw\Collections-hw\bin\Debug\Collections-hw.exe
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Linq\Collections-hw\Collections-hw\bin\Debug\Collections-hw.pdb
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Linq\Collections-hw\Collections-hw\obj\Debug\Collections-hw.exe
+C:\Users\Owner\Desktop\Workspace\Ashleys-unit-3-classwork\Linq\Collections-hw\Collections-hw\obj\Debug\Collections-hw.pdb
